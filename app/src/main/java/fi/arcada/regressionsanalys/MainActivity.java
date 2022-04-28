@@ -41,8 +41,6 @@ public class MainActivity extends AppCompatActivity {
         // Anropa regLine.getX()-metoden via objektet regLine, och använd yValue som parameter
         // Skicka svaret till en TextView i layouten!
 
-        // DEL 3: Anropa regLine.get()-metoden via objektet regLine, och använd yValue som parameter
-        // Skicka svaret till en TextView i layouten!
 
     }
 
