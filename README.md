@@ -1,1 +1,1 @@
-# sos-projekt4-template
+# sos-regression-template
